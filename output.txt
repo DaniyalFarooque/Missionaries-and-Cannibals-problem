@@ -1767,5 +1767,4 @@ Method 155:
 	Step   9:  send  0 missionaries and  4 cannibals, so final state is  ( 0, 0, 0) 
 
 Thank you!
-
 Bye!
